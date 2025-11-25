@@ -70,7 +70,6 @@ TEMPLATES = [
 
 ALLOWED_HOSTS = [
     'ecommerce-6-4qzv.onrender.com',     # Allows ANY Render subdomain
-    'ecommerce-6-4qzv.onrender.com', 
     'localhost',
     '127.0.0.1'
 ]
